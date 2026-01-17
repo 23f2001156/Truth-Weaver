@@ -265,7 +265,7 @@ import json5
 @dataclass
 class GenCfg:
     model_name: str = "gemini-2.5-flash"
-    api_key: str = "AIzaSyAdOoOGs7jgrxnCrpYwostMndqCINvNB2E"
+    api_key: str = "Your api key here"
     save_ai_debug: Optional[str] = None
 
 class AITruthWeaver:
